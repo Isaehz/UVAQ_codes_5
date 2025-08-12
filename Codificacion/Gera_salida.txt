@@ -1,0 +1,5 @@
+
+Menu:
+1. Mostrar representaciones de un carácter
+2. Salir
+Selecciona una opción: 
